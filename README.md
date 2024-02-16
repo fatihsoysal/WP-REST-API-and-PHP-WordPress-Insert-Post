@@ -1,10 +1,10 @@
 # WP-REST-API-and-PHP-WordPress-Insert-Post
 A simple post insert using WP REST API and PHP over basic authentication
 
-<?php
+#<?php
 
-///////////////////////////////////////////////////////////////////////////////////
-//                                                                               //
+#///////////////////////////////////////////////////////////////////////////////////
+#//                                                                               //
 // This is using a sample local WordPress Install and is not production safe     //
 // It uses the  REST and Basic Auth plugins                                      //
 //                                                                               //
